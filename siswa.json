@@ -1,0 +1,40 @@
+{
+    "records": [
+        {
+            "nama": "Akmal Hafizhuddin ",
+            "nis": "11010",
+            "kelas": "XI",
+            "hari": "Kamis",
+            "tanggal": "2024-05-02",
+            "keterangan": "Hadir",
+            "jam": "06:00"
+        },
+        {
+            "nama": "Dana Maraso",
+            "nis": "11013",
+            "kelas": "X",
+            "hari": "Kamis",
+            "tanggal": "2024-05-02",
+            "keterangan": "Izin",
+            "fileIzin": "uploads\/surat izin.jpg"
+        },
+        {
+            "nama": "Febriant Wongso",
+            "nis": "11012",
+            "kelas": "X",
+            "hari": "Kamis",
+            "tanggal": "2024-05-02",
+            "keterangan": "Hadir",
+            "jam": "06:15"
+        },
+        {
+            "nama": "M Faiz Hasan",
+            "nis": "11011",
+            "kelas": "XI",
+            "hari": "Kamis",
+            "tanggal": "2024-05-02",
+            "keterangan": "Sakit",
+            "fileSakit": "uploads\/surat sakit.jpg"
+        }
+    ]
+}
